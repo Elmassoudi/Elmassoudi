@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm El massoudi01
+I'm a passionate Mechatronics & Electronics enthusiast from Morocco 🇲🇦.  
+I love building projects with **Arduino, Python, and robotics**.  
 
-<!--
-**Elmassoudi/Elmassoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Mechatronics & Electronics  
+- Python & Arduino programming  
+- Robotics & Automation  
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
+- Advanced embedded systems  
+- IoT & smart devices  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and create something awesome! 🚀
